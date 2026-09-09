@@ -238,3 +238,6 @@ This repository serves as the official landing page for FreeOffice. The software
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of FreeOffice today!**
+
+---
+**Last updated:** 2026-09-09 18:28:03 UTC
